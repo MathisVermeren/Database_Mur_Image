@@ -6,7 +6,7 @@
 	},  
 	{
 		"Id_screen" : 2,
-		"type" : "meteo",
+		"type" : "Meteo",
 		"parametres" : { "temperature" : 23.4 }
 	}
 
