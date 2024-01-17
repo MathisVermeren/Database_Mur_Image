@@ -2,7 +2,13 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather"
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false,
+				"image_name": "Image1"
+			}
 		},
 		{
 			"Id_screen" : 1,
