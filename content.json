@@ -1,13 +1,494 @@
 [
-	{
-		"Id_screen" : 1,
-		"type" : "Image",
-		"parametres" : { "url" : "https://media.istockphoto.com/id/513133900/fr/photo/or-chien-darr%C3%AAt-assis-dans-un-fond-blanc-%C3%A0-lavant-de.jpg?s=612x612&w=0&k=20&c=3X1iqRKuCwS8mZfurPSA0P9L43wdvJl80eTE0RlaLfU=" }
-	},  
-	{
-		"Id_screen" : 2,
-		"type" : "Meteo",
-		"parametres" : { "temperature" : 23.4 }
-	}
-
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image1"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	],
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image1"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	],
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image1"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	],
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	],
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image3"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	],
+	[
+		{
+			"Id_screen" : 0,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 1,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false
+				"image_name": "Image3"
+			}
+		},
+		{
+			"Id_screen" : 2,
+			"type" : "weather",
+			"parametres" : { "temperature" : 23.4 }
+		},
+		{
+			"Id_screen" : 3,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" 633: , "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 4,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 0},
+				"end_coordinates": {"x" : 1266, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 5,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 0},
+				"end_coordinates": {"x" : 2000, "y" : 500},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},  
+		{
+			"Id_screen" : 6,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 0, "y" : 500},
+				"end_coordinates": {"x" : 633, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 7,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 633, "y" : 500},
+				"end_coordinates": {"x" : 1266, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+		{
+			"Id_screen" : 8,
+			"type" : "image",
+			"parametres" : {
+				"start_coordinates": {"x" : 1266, "y" : 500},
+				"end_coordinates": {"x" : 2000, "y" : 1000},
+				"cut": false
+				"image_name": "Image2"
+			}
+		},
+	]
 ]
