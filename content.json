@@ -2,8 +2,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -17,8 +16,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -84,8 +82,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -99,8 +96,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -166,8 +162,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -181,8 +176,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -248,8 +242,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -263,8 +256,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -330,8 +322,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -345,8 +336,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -412,8 +402,7 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 1,
@@ -427,8 +416,7 @@
 		},
 		{
 			"Id_screen" : 2,
-			"type" : "weather",
-			"parametres" : { "temperature" : 23.4 }
+			"type" : "weather"
 		},
 		{
 			"Id_screen" : 3,
@@ -492,4 +480,3 @@
 		}
 	]
 ]
-
