@@ -11,7 +11,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image1"
 			}
 		},
@@ -25,8 +25,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -36,7 +36,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -46,7 +46,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -56,7 +56,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -66,7 +66,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -76,10 +76,10 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	],
 	[
 		{
@@ -93,7 +93,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image1"
 			}
 		},
@@ -107,8 +107,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -118,7 +118,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -128,7 +128,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -138,7 +138,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -148,7 +148,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -158,10 +158,10 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	],
 	[
 		{
@@ -175,7 +175,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image1"
 			}
 		},
@@ -189,8 +189,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -200,7 +200,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -210,7 +210,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -220,7 +220,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -230,7 +230,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -240,10 +240,10 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	],
 	[
 		{
@@ -257,7 +257,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image2"
 			}
 		},
@@ -271,8 +271,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -282,7 +282,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -292,7 +292,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -302,7 +302,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -312,7 +312,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -322,10 +322,10 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	],
 	[
 		{
@@ -339,7 +339,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image3"
 			}
 		},
@@ -353,8 +353,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -364,7 +364,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -374,7 +374,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -384,7 +384,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -394,7 +394,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -404,10 +404,10 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	],
 	[
 		{
@@ -421,7 +421,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 0, "y" : 0},
-				"cut": false
+				"cut": false,
 				"image_name": "Image3"
 			}
 		},
@@ -435,8 +435,8 @@
 			"type" : "image",
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 0},
-				"end_coordinates": {"x" 633: , "y" : 500},
-				"cut": false
+				"end_coordinates": {"x" : 633, "y" : 500},
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -446,7 +446,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -456,7 +456,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},  
@@ -466,7 +466,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -476,7 +476,7 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
 		},
@@ -486,9 +486,9 @@
 			"parametres" : {
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
-				"cut": false
+				"cut": true,
 				"image_name": "Image2"
 			}
-		},
+		}
 	]
 ]
