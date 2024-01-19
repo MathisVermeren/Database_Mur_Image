@@ -191,7 +191,7 @@
 				"start_coordinates": {"x" : 0, "y" : 0},
 				"end_coordinates": {"x" : 633, "y" : 500},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 				"start_coordinates": {"x" : 633, "y" : 0},
 				"end_coordinates": {"x" : 1266, "y" : 500},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		},
 		{
@@ -211,7 +211,7 @@
 				"start_coordinates": {"x" : 1266, "y" : 0},
 				"end_coordinates": {"x" : 2000, "y" : 500},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		},  
 		{
@@ -221,7 +221,7 @@
 				"start_coordinates": {"x" : 0, "y" : 500},
 				"end_coordinates": {"x" : 633, "y" : 1000},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		},
 		{
@@ -231,7 +231,7 @@
 				"start_coordinates": {"x" : 633, "y" : 500},
 				"end_coordinates": {"x" : 1266, "y" : 1000},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 				"start_coordinates": {"x" : 1266, "y" : 500},
 				"end_coordinates": {"x" : 2000, "y" : 1000},
 				"cut": true,
-				"image_url": "https://i.imgur.com/56pEtjA.jpeg"
+				"image_url": "https://live.staticflickr.com/4094/4862530769_56676faab6_k.jpg"
 			}
 		}
 	],
