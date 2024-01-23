@@ -168,7 +168,13 @@
 	[
 		{
 			"Id_screen" : 0,
-			"type" : "weather"
+			"type" : "image",
+			"parameters" : {
+				"start_coordinates": {"x" : 0, "y" : 0},
+				"end_coordinates": {"x" : 0, "y" : 0},
+				"cut": false,
+				"image_url": "https://i.imgur.com/zwoNOFp.jpeg"
+			}
 		},
 		{
 			"Id_screen" : 1,
